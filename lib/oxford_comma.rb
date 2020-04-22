@@ -10,10 +10,3 @@ def oxford_comma(array)
   end
   
 end
-#   if result < 3
-      
-#     result.join(", starfruit")
-#     return result
-# end
-
-# 
