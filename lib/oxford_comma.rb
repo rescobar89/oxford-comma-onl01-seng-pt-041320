@@ -1,4 +1,4 @@
-element_1 = ["kiwi"]
+# element_1 = ["kiwi"]
 def oxford_comma(array)
   if array <= 1
     return array
