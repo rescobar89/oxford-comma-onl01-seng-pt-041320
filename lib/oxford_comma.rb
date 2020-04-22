@@ -1,10 +1,10 @@
 
 def oxford_comma(array)
-  if array.lenght <= 1
+  if array.length <= 1
     return array
-  elsif array.lenght == 2
+  elsif array.length == 2
     return array.join(" and ")
-  elsif array.lenght >= 3
+  elsif array.length >= 3
     return array.join(", and")
   end
   
